@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Impar ou par\Impar ou par\bin\Debug\netcoreapp3.1\Impar ou par.exe
+C:\Users\Admin\source\repos\Impar ou par\Impar ou par\bin\Debug\netcoreapp3.1\Impar ou par.deps.json
+C:\Users\Admin\source\repos\Impar ou par\Impar ou par\bin\Debug\netcoreapp3.1\Impar ou par.runtimeconfig.json
+C:\Users\Admin\source\repos\Impar ou par\Impar ou par\bin\Debug\netcoreapp3.1\Impar ou par.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Impar ou par\Impar ou par\bin\Debug\netcoreapp3.1\Impar ou par.dll
+C:\Users\Admin\source\repos\Impar ou par\Impar ou par\bin\Debug\netcoreapp3.1\Impar ou par.pdb
+C:\Users\Admin\source\repos\Impar ou par\Impar ou par\obj\Debug\netcoreapp3.1\Impar ou par.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Impar ou par\Impar ou par\obj\Debug\netcoreapp3.1\Impar ou par.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Impar ou par\Impar ou par\obj\Debug\netcoreapp3.1\Impar ou par.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Impar ou par\Impar ou par\obj\Debug\netcoreapp3.1\Impar ou par.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Impar ou par\Impar ou par\obj\Debug\netcoreapp3.1\Impar ou par.dll
+C:\Users\Admin\source\repos\Impar ou par\Impar ou par\obj\Debug\netcoreapp3.1\Impar ou par.pdb
+C:\Users\Admin\source\repos\Impar ou par\Impar ou par\obj\Debug\netcoreapp3.1\Impar ou par.genruntimeconfig.cache

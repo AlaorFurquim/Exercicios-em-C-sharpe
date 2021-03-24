@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Diferenca dos produtos\Diferenca dos produtos\bin\Debug\netcoreapp3.1\Diferenca dos produtos.exe
+C:\Users\Admin\source\repos\Diferenca dos produtos\Diferenca dos produtos\bin\Debug\netcoreapp3.1\Diferenca dos produtos.deps.json
+C:\Users\Admin\source\repos\Diferenca dos produtos\Diferenca dos produtos\bin\Debug\netcoreapp3.1\Diferenca dos produtos.runtimeconfig.json
+C:\Users\Admin\source\repos\Diferenca dos produtos\Diferenca dos produtos\bin\Debug\netcoreapp3.1\Diferenca dos produtos.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Diferenca dos produtos\Diferenca dos produtos\bin\Debug\netcoreapp3.1\Diferenca dos produtos.dll
+C:\Users\Admin\source\repos\Diferenca dos produtos\Diferenca dos produtos\bin\Debug\netcoreapp3.1\Diferenca dos produtos.pdb
+C:\Users\Admin\source\repos\Diferenca dos produtos\Diferenca dos produtos\obj\Debug\netcoreapp3.1\Diferenca dos produtos.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Diferenca dos produtos\Diferenca dos produtos\obj\Debug\netcoreapp3.1\Diferenca dos produtos.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Diferenca dos produtos\Diferenca dos produtos\obj\Debug\netcoreapp3.1\Diferenca dos produtos.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Diferenca dos produtos\Diferenca dos produtos\obj\Debug\netcoreapp3.1\Diferenca dos produtos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Diferenca dos produtos\Diferenca dos produtos\obj\Debug\netcoreapp3.1\Diferenca dos produtos.dll
+C:\Users\Admin\source\repos\Diferenca dos produtos\Diferenca dos produtos\obj\Debug\netcoreapp3.1\Diferenca dos produtos.pdb
+C:\Users\Admin\source\repos\Diferenca dos produtos\Diferenca dos produtos\obj\Debug\netcoreapp3.1\Diferenca dos produtos.genruntimeconfig.cache

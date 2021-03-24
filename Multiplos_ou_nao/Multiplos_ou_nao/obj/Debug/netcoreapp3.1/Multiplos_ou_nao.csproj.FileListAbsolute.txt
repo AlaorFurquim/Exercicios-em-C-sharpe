@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Multiplos_ou_nao\Multiplos_ou_nao\bin\Debug\netcoreapp3.1\Multiplos_ou_nao.exe
+C:\Users\Admin\source\repos\Multiplos_ou_nao\Multiplos_ou_nao\bin\Debug\netcoreapp3.1\Multiplos_ou_nao.deps.json
+C:\Users\Admin\source\repos\Multiplos_ou_nao\Multiplos_ou_nao\bin\Debug\netcoreapp3.1\Multiplos_ou_nao.runtimeconfig.json
+C:\Users\Admin\source\repos\Multiplos_ou_nao\Multiplos_ou_nao\bin\Debug\netcoreapp3.1\Multiplos_ou_nao.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Multiplos_ou_nao\Multiplos_ou_nao\bin\Debug\netcoreapp3.1\Multiplos_ou_nao.dll
+C:\Users\Admin\source\repos\Multiplos_ou_nao\Multiplos_ou_nao\bin\Debug\netcoreapp3.1\Multiplos_ou_nao.pdb
+C:\Users\Admin\source\repos\Multiplos_ou_nao\Multiplos_ou_nao\obj\Debug\netcoreapp3.1\Multiplos_ou_nao.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Multiplos_ou_nao\Multiplos_ou_nao\obj\Debug\netcoreapp3.1\Multiplos_ou_nao.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Multiplos_ou_nao\Multiplos_ou_nao\obj\Debug\netcoreapp3.1\Multiplos_ou_nao.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Multiplos_ou_nao\Multiplos_ou_nao\obj\Debug\netcoreapp3.1\Multiplos_ou_nao.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Multiplos_ou_nao\Multiplos_ou_nao\obj\Debug\netcoreapp3.1\Multiplos_ou_nao.dll
+C:\Users\Admin\source\repos\Multiplos_ou_nao\Multiplos_ou_nao\obj\Debug\netcoreapp3.1\Multiplos_ou_nao.pdb
+C:\Users\Admin\source\repos\Multiplos_ou_nao\Multiplos_ou_nao\obj\Debug\netcoreapp3.1\Multiplos_ou_nao.genruntimeconfig.cache

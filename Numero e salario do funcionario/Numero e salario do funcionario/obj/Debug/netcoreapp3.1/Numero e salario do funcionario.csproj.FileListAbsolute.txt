@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Numero e salario do funcionario\Numero e salario do funcionario\bin\Debug\netcoreapp3.1\Numero e salario do funcionario.exe
+C:\Users\Admin\source\repos\Numero e salario do funcionario\Numero e salario do funcionario\bin\Debug\netcoreapp3.1\Numero e salario do funcionario.deps.json
+C:\Users\Admin\source\repos\Numero e salario do funcionario\Numero e salario do funcionario\bin\Debug\netcoreapp3.1\Numero e salario do funcionario.runtimeconfig.json
+C:\Users\Admin\source\repos\Numero e salario do funcionario\Numero e salario do funcionario\bin\Debug\netcoreapp3.1\Numero e salario do funcionario.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Numero e salario do funcionario\Numero e salario do funcionario\bin\Debug\netcoreapp3.1\Numero e salario do funcionario.dll
+C:\Users\Admin\source\repos\Numero e salario do funcionario\Numero e salario do funcionario\bin\Debug\netcoreapp3.1\Numero e salario do funcionario.pdb
+C:\Users\Admin\source\repos\Numero e salario do funcionario\Numero e salario do funcionario\obj\Debug\netcoreapp3.1\Numero e salario do funcionario.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Numero e salario do funcionario\Numero e salario do funcionario\obj\Debug\netcoreapp3.1\Numero e salario do funcionario.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Numero e salario do funcionario\Numero e salario do funcionario\obj\Debug\netcoreapp3.1\Numero e salario do funcionario.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Numero e salario do funcionario\Numero e salario do funcionario\obj\Debug\netcoreapp3.1\Numero e salario do funcionario.dll
+C:\Users\Admin\source\repos\Numero e salario do funcionario\Numero e salario do funcionario\obj\Debug\netcoreapp3.1\Numero e salario do funcionario.pdb
+C:\Users\Admin\source\repos\Numero e salario do funcionario\Numero e salario do funcionario\obj\Debug\netcoreapp3.1\Numero e salario do funcionario.genruntimeconfig.cache

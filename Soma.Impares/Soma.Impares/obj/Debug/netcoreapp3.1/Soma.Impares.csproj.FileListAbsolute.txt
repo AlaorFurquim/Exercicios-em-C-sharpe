@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Soma.Impares\Soma.Impares\bin\Debug\netcoreapp3.1\Soma.Impares.exe
+C:\Users\Admin\source\repos\Soma.Impares\Soma.Impares\bin\Debug\netcoreapp3.1\Soma.Impares.deps.json
+C:\Users\Admin\source\repos\Soma.Impares\Soma.Impares\bin\Debug\netcoreapp3.1\Soma.Impares.runtimeconfig.json
+C:\Users\Admin\source\repos\Soma.Impares\Soma.Impares\bin\Debug\netcoreapp3.1\Soma.Impares.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Soma.Impares\Soma.Impares\bin\Debug\netcoreapp3.1\Soma.Impares.dll
+C:\Users\Admin\source\repos\Soma.Impares\Soma.Impares\bin\Debug\netcoreapp3.1\Soma.Impares.pdb
+C:\Users\Admin\source\repos\Soma.Impares\Soma.Impares\obj\Debug\netcoreapp3.1\Soma.Impares.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Soma.Impares\Soma.Impares\obj\Debug\netcoreapp3.1\Soma.Impares.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Soma.Impares\Soma.Impares\obj\Debug\netcoreapp3.1\Soma.Impares.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Soma.Impares\Soma.Impares\obj\Debug\netcoreapp3.1\Soma.Impares.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Soma.Impares\Soma.Impares\obj\Debug\netcoreapp3.1\Soma.Impares.dll
+C:\Users\Admin\source\repos\Soma.Impares\Soma.Impares\obj\Debug\netcoreapp3.1\Soma.Impares.pdb
+C:\Users\Admin\source\repos\Soma.Impares\Soma.Impares\obj\Debug\netcoreapp3.1\Soma.Impares.genruntimeconfig.cache

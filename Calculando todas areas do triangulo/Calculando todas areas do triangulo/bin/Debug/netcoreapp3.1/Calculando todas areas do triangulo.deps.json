@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calculando todas areas do triangulo/1.0.0": {
+        "runtime": {
+          "Calculando todas areas do triangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculando todas areas do triangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

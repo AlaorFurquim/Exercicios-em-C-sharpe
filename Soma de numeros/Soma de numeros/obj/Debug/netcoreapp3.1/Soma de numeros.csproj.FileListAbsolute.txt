@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Soma de numeros\Soma de numeros\bin\Debug\netcoreapp3.1\Soma de numeros.exe
+C:\Users\Admin\source\repos\Soma de numeros\Soma de numeros\bin\Debug\netcoreapp3.1\Soma de numeros.deps.json
+C:\Users\Admin\source\repos\Soma de numeros\Soma de numeros\bin\Debug\netcoreapp3.1\Soma de numeros.runtimeconfig.json
+C:\Users\Admin\source\repos\Soma de numeros\Soma de numeros\bin\Debug\netcoreapp3.1\Soma de numeros.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Soma de numeros\Soma de numeros\bin\Debug\netcoreapp3.1\Soma de numeros.dll
+C:\Users\Admin\source\repos\Soma de numeros\Soma de numeros\bin\Debug\netcoreapp3.1\Soma de numeros.pdb
+C:\Users\Admin\source\repos\Soma de numeros\Soma de numeros\obj\Debug\netcoreapp3.1\Soma de numeros.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Soma de numeros\Soma de numeros\obj\Debug\netcoreapp3.1\Soma de numeros.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Soma de numeros\Soma de numeros\obj\Debug\netcoreapp3.1\Soma de numeros.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Soma de numeros\Soma de numeros\obj\Debug\netcoreapp3.1\Soma de numeros.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Soma de numeros\Soma de numeros\obj\Debug\netcoreapp3.1\Soma de numeros.dll
+C:\Users\Admin\source\repos\Soma de numeros\Soma de numeros\obj\Debug\netcoreapp3.1\Soma de numeros.pdb
+C:\Users\Admin\source\repos\Soma de numeros\Soma de numeros\obj\Debug\netcoreapp3.1\Soma de numeros.genruntimeconfig.cache

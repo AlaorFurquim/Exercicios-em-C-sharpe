@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Calculando todas areas do triangulo\Calculando todas areas do triangulo\bin\Debug\netcoreapp3.1\Calculando todas areas do triangulo.exe
+C:\Users\Admin\source\repos\Calculando todas areas do triangulo\Calculando todas areas do triangulo\bin\Debug\netcoreapp3.1\Calculando todas areas do triangulo.deps.json
+C:\Users\Admin\source\repos\Calculando todas areas do triangulo\Calculando todas areas do triangulo\bin\Debug\netcoreapp3.1\Calculando todas areas do triangulo.runtimeconfig.json
+C:\Users\Admin\source\repos\Calculando todas areas do triangulo\Calculando todas areas do triangulo\bin\Debug\netcoreapp3.1\Calculando todas areas do triangulo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Calculando todas areas do triangulo\Calculando todas areas do triangulo\bin\Debug\netcoreapp3.1\Calculando todas areas do triangulo.dll
+C:\Users\Admin\source\repos\Calculando todas areas do triangulo\Calculando todas areas do triangulo\bin\Debug\netcoreapp3.1\Calculando todas areas do triangulo.pdb
+C:\Users\Admin\source\repos\Calculando todas areas do triangulo\Calculando todas areas do triangulo\obj\Debug\netcoreapp3.1\Calculando todas areas do triangulo.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Calculando todas areas do triangulo\Calculando todas areas do triangulo\obj\Debug\netcoreapp3.1\Calculando todas areas do triangulo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Calculando todas areas do triangulo\Calculando todas areas do triangulo\obj\Debug\netcoreapp3.1\Calculando todas areas do triangulo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Calculando todas areas do triangulo\Calculando todas areas do triangulo\obj\Debug\netcoreapp3.1\Calculando todas areas do triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Calculando todas areas do triangulo\Calculando todas areas do triangulo\obj\Debug\netcoreapp3.1\Calculando todas areas do triangulo.dll
+C:\Users\Admin\source\repos\Calculando todas areas do triangulo\Calculando todas areas do triangulo\obj\Debug\netcoreapp3.1\Calculando todas areas do triangulo.pdb
+C:\Users\Admin\source\repos\Calculando todas areas do triangulo\Calculando todas areas do triangulo\obj\Debug\netcoreapp3.1\Calculando todas areas do triangulo.genruntimeconfig.cache

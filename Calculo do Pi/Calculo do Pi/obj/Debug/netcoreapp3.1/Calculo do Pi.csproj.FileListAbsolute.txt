@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Calculo do Pi\Calculo do Pi\bin\Debug\netcoreapp3.1\Calculo do Pi.exe
+C:\Users\Admin\source\repos\Calculo do Pi\Calculo do Pi\bin\Debug\netcoreapp3.1\Calculo do Pi.deps.json
+C:\Users\Admin\source\repos\Calculo do Pi\Calculo do Pi\bin\Debug\netcoreapp3.1\Calculo do Pi.runtimeconfig.json
+C:\Users\Admin\source\repos\Calculo do Pi\Calculo do Pi\bin\Debug\netcoreapp3.1\Calculo do Pi.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Calculo do Pi\Calculo do Pi\bin\Debug\netcoreapp3.1\Calculo do Pi.dll
+C:\Users\Admin\source\repos\Calculo do Pi\Calculo do Pi\bin\Debug\netcoreapp3.1\Calculo do Pi.pdb
+C:\Users\Admin\source\repos\Calculo do Pi\Calculo do Pi\obj\Debug\netcoreapp3.1\Calculo do Pi.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Calculo do Pi\Calculo do Pi\obj\Debug\netcoreapp3.1\Calculo do Pi.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Calculo do Pi\Calculo do Pi\obj\Debug\netcoreapp3.1\Calculo do Pi.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Calculo do Pi\Calculo do Pi\obj\Debug\netcoreapp3.1\Calculo do Pi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Calculo do Pi\Calculo do Pi\obj\Debug\netcoreapp3.1\Calculo do Pi.dll
+C:\Users\Admin\source\repos\Calculo do Pi\Calculo do Pi\obj\Debug\netcoreapp3.1\Calculo do Pi.pdb
+C:\Users\Admin\source\repos\Calculo do Pi\Calculo do Pi\obj\Debug\netcoreapp3.1\Calculo do Pi.genruntimeconfig.cache

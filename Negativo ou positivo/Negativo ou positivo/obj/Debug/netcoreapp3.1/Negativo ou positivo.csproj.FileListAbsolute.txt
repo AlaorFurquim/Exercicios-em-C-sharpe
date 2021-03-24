@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Negativo ou positivo\Negativo ou positivo\bin\Debug\netcoreapp3.1\Negativo ou positivo.exe
+C:\Users\Admin\source\repos\Negativo ou positivo\Negativo ou positivo\bin\Debug\netcoreapp3.1\Negativo ou positivo.deps.json
+C:\Users\Admin\source\repos\Negativo ou positivo\Negativo ou positivo\bin\Debug\netcoreapp3.1\Negativo ou positivo.runtimeconfig.json
+C:\Users\Admin\source\repos\Negativo ou positivo\Negativo ou positivo\bin\Debug\netcoreapp3.1\Negativo ou positivo.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Negativo ou positivo\Negativo ou positivo\bin\Debug\netcoreapp3.1\Negativo ou positivo.dll
+C:\Users\Admin\source\repos\Negativo ou positivo\Negativo ou positivo\bin\Debug\netcoreapp3.1\Negativo ou positivo.pdb
+C:\Users\Admin\source\repos\Negativo ou positivo\Negativo ou positivo\obj\Debug\netcoreapp3.1\Negativo ou positivo.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Negativo ou positivo\Negativo ou positivo\obj\Debug\netcoreapp3.1\Negativo ou positivo.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Negativo ou positivo\Negativo ou positivo\obj\Debug\netcoreapp3.1\Negativo ou positivo.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Negativo ou positivo\Negativo ou positivo\obj\Debug\netcoreapp3.1\Negativo ou positivo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Negativo ou positivo\Negativo ou positivo\obj\Debug\netcoreapp3.1\Negativo ou positivo.dll
+C:\Users\Admin\source\repos\Negativo ou positivo\Negativo ou positivo\obj\Debug\netcoreapp3.1\Negativo ou positivo.pdb
+C:\Users\Admin\source\repos\Negativo ou positivo\Negativo ou positivo\obj\Debug\netcoreapp3.1\Negativo ou positivo.genruntimeconfig.cache
