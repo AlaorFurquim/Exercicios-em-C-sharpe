@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Retangulo2\Retangulo2\bin\Debug\netcoreapp3.1\Retangulo2.exe
+C:\Users\Admin\source\repos\Retangulo2\Retangulo2\bin\Debug\netcoreapp3.1\Retangulo2.deps.json
+C:\Users\Admin\source\repos\Retangulo2\Retangulo2\bin\Debug\netcoreapp3.1\Retangulo2.runtimeconfig.json
+C:\Users\Admin\source\repos\Retangulo2\Retangulo2\bin\Debug\netcoreapp3.1\Retangulo2.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Retangulo2\Retangulo2\bin\Debug\netcoreapp3.1\Retangulo2.dll
+C:\Users\Admin\source\repos\Retangulo2\Retangulo2\bin\Debug\netcoreapp3.1\Retangulo2.pdb
+C:\Users\Admin\source\repos\Retangulo2\Retangulo2\obj\Debug\netcoreapp3.1\Retangulo2.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Retangulo2\Retangulo2\obj\Debug\netcoreapp3.1\Retangulo2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Retangulo2\Retangulo2\obj\Debug\netcoreapp3.1\Retangulo2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Retangulo2\Retangulo2\obj\Debug\netcoreapp3.1\Retangulo2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Retangulo2\Retangulo2\obj\Debug\netcoreapp3.1\Retangulo2.dll
+C:\Users\Admin\source\repos\Retangulo2\Retangulo2\obj\Debug\netcoreapp3.1\Retangulo2.pdb
+C:\Users\Admin\source\repos\Retangulo2\Retangulo2\obj\Debug\netcoreapp3.1\Retangulo2.genruntimeconfig.cache

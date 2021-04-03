@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\Media_Nota\Media_Nota\bin\Debug\netcoreapp3.1\Media_Nota.exe
+C:\Users\Admin\source\repos\Media_Nota\Media_Nota\bin\Debug\netcoreapp3.1\Media_Nota.deps.json
+C:\Users\Admin\source\repos\Media_Nota\Media_Nota\bin\Debug\netcoreapp3.1\Media_Nota.runtimeconfig.json
+C:\Users\Admin\source\repos\Media_Nota\Media_Nota\bin\Debug\netcoreapp3.1\Media_Nota.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Media_Nota\Media_Nota\bin\Debug\netcoreapp3.1\Media_Nota.dll
+C:\Users\Admin\source\repos\Media_Nota\Media_Nota\bin\Debug\netcoreapp3.1\Media_Nota.pdb
+C:\Users\Admin\source\repos\Media_Nota\Media_Nota\obj\Debug\netcoreapp3.1\Media_Nota.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Media_Nota\Media_Nota\obj\Debug\netcoreapp3.1\Media_Nota.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Media_Nota\Media_Nota\obj\Debug\netcoreapp3.1\Media_Nota.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Media_Nota\Media_Nota\obj\Debug\netcoreapp3.1\Media_Nota.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Media_Nota\Media_Nota\obj\Debug\netcoreapp3.1\Media_Nota.dll
+C:\Users\Admin\source\repos\Media_Nota\Media_Nota\obj\Debug\netcoreapp3.1\Media_Nota.pdb
+C:\Users\Admin\source\repos\Media_Nota\Media_Nota\obj\Debug\netcoreapp3.1\Media_Nota.genruntimeconfig.cache
